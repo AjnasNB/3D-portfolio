@@ -47,7 +47,7 @@ function addstar(){
 }
 Array(200).fill().forEach(addstar)
 
-const spacebg= new THREE.TextureLoader().load('space.jpg');
+const spacebg= new THREE.TextureLoader().load("/space.jpg");
 scene.background=spacebg
 
 
