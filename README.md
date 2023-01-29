@@ -5,7 +5,7 @@
 
 1. Download this repository
 2. open in terminal 
-3. Change necessary changes you want by using your favorite code edito(I preffer vs code)
+3. Change necessary changes you want by using your favorite code editor(I preffer vs code)
 4. run : npm run dev
 5. clock o to open in browser.
 
